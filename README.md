@@ -1,12 +1,14 @@
 # chicagoCrimeMap
-Here is	my first self-owned project of a web map displaying multiple layers of crime instance in Chicago City using GIS 
+Here is	my first self-owned project of a web map displaying multiple layers of crime instance in Chicago City using GIS tech. 
 
 Deploy URL:  https://mikehui1124.github.io/chicagoCrimeMap/
 
 
 # Description
-•	Features statistic data from 3rd-party API, graphical widgets for distance/area measurement, zoom in/out, bookmark a view and satellite basemap, replicating the functionality of Google Map 
+•	Features statistic data imported from 3rd-party API, graphical widgets for distance/area measurement, zoom in/out, bookmark a view and satellite basemap, replicating the functionality of Google Map 
 •	Multiple layers of crime categories available in one web map, switich on//off individual layer
+•	Slider bar to split two distinct layers of crime data side-by-side on the map
+
 
 # Map in Action
 
