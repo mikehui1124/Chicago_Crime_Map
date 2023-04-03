@@ -6,7 +6,9 @@ Deploy URL:  https://mikehui1124.github.io/chicagoCrimeMap/
 
 # Description
 •	Features statistic data imported from 3rd-party API, graphical widgets for distance/area measurement, zoom in/out, bookmark a view and satellite basemap, replicating the functionality of Google Map 
+
 •	Multiple layers of crime categories available in one web map, switich on//off individual layer
+
 •	Slider bar to split two distinct layers of crime data side-by-side on the map
 
 
