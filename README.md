@@ -1,7 +1,7 @@
 # chicagoCrimeMap
 Here is	my first self-owned project of a web map displaying multiple layers of crime instance in Chicago City using GIS tech. 
 
-Deploy URL:  https://mikehui1124.github.io/chicagoCrimeMap/
+Deploy URL:  https://mikehui1124.github.io/Chicago_Crime_Map/
 
 
 # Description
